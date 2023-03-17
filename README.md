@@ -1,5 +1,8 @@
 # :zap: Midas API Plugin Connection Link
 
+# MIDAS API Manual
+- [API Manual Rev.02](https://midas-support.atlassian.net/wiki/spaces/MAW/pages/84017153/Civil+API+Manual+Rev.02)
+
 # Standard
 - https://github.com/kh1012/sproj-std
 - to do, boiler plate
