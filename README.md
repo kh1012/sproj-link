@@ -2,7 +2,7 @@
 <br />
 
 ## MIDAS API Manual
-- [API Manual Rev.02](https://midas-support.atlassian.net/wiki/spaces/MAW/pages/84017153/Civil+API+Manual+Rev.02)
+- [API Manual Rev.02](https://midas-support.atlassian.net/wiki/spaces/MAPI/overview)
 <br /><br />
 
 ## Standard
