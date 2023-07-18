@@ -6,21 +6,21 @@
 <br /><br />
 
 ## Standard
-- https://github.com/kh1012/sproj-std
+- https://github.com/midasd/sproj-std
 - to do, boiler plate
 <br /><br />
 
 ## Prerequisite
-- https://github.com/kh1012/sproj-prerequisite
+- https://github.com/midasd/sproj-prerequisite
 <br /><br />
 
 ## Seed Projects
-- https://github.com/kh1012/sproj-html-simple-input
-- https://github.com/kh1012/sproj-html-simple-table
-- https://github.com/kh1012/sproj-react-simple-input
-- https://github.com/kh1012/sproj-react-simple-table
+- https://github.com/midasd/sproj-html-simple-input
+- https://github.com/midasd/sproj-html-simple-table
+- https://github.com/midasd/sproj-react-simple-input
+- https://github.com/midasd/sproj-react-simple-table
 <br /><br />
 
 ## Plugin Examples
-- https://github.com/kh1012/sproj-examples
+- https://github.com/midasd/sproj-examples
 <br /><br />
